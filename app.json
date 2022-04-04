@@ -1,0 +1,8 @@
+{
+    "name": "altabano-device-seller",
+  "builpacks": [
+    {
+      "url": "heroku/java"
+    }
+  ]
+}
